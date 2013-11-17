@@ -10,3 +10,9 @@ input, textarea {
 .content-padded {
   padding: 10px;
 }
+
+body{
+	background:url(../logo.png);
+	background-size: 100%;
+	background-repeat:no-repeat;
+}

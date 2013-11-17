@@ -12,7 +12,7 @@ input, textarea {
 }
 
 body{
-	background:url(../../../myProject/www/logo.png);
+	background:url(../logo.png);
 	background-size: 100%;
 	background-repeat:no-repeat;
 }
